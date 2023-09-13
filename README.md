@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzibble67&count_bg=%23FB9C34&title_bg=%232D2D2D&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zibble67&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=swift)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zibble67&show_icons=true&theme=swift)
